@@ -1,2 +1,2 @@
 # cybersecurity-journey
-My journey learning Linux, programming and cybersecurity.
+My journey in cybersecurity.
